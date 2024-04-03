@@ -22,7 +22,6 @@ dependencies:
   - tensorflow[version='<=2.12.1']
   - torchvision
   - tqdm
-  - visualkeras
   - scikit-learn
   - xgboost
   - imbalanced-learn
