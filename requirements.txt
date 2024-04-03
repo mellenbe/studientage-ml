@@ -1,0 +1,15 @@
+ipywidgets
+matplotlib
+numpy
+pandas
+tqdm
+keras
+pillow<=9.5.0
+tensorflow
+pydot
+graphviz
+visualkeras
+seaborn
+jupyter
+scikit-learn
+xgboost

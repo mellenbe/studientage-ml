@@ -1,0 +1,8 @@
+05-Weiterfuehrend-und-experimentell/data
+05-Weiterfuehrend-und-experimentell/cifar_net.pth
+.ipynb_checkpoints/
+.idea/
+img/viz
+img/viz.png
+model_plot.png
+model.weights.best.hdf5
