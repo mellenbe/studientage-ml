@@ -12,6 +12,7 @@ dependencies:
   - ipywidgets
   - jupyter
   - keras
+  - keras-tuner
   - matplotlib
   - numpy
   - pandas

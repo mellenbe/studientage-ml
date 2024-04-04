@@ -2,6 +2,7 @@
 05-Weiterfuehrend-und-experimentell/cifar_net.pth
 .ipynb_checkpoints/
 .idea/
+tuner_dir
 img/viz
 img/viz.png
 model_plot.png
