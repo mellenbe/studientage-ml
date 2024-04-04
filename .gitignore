@@ -7,3 +7,5 @@ img/viz
 img/viz.png
 model_plot.png
 model.weights.best.hdf5
+*.hdf5
+*.keras
