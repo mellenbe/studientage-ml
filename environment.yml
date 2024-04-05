@@ -9,6 +9,7 @@ channels:
 dependencies:
   - python=3.10
   - graphviz
+    visualkeras
   - ipywidgets
   - jupyter
   - keras
