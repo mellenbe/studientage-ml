@@ -8,11 +8,11 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - graphviz
-    visualkeras
   - ipywidgets
   - jupyter
   - keras
+  - tensorflow
+  - tensorflow-datasets
   - keras-tuner
   - matplotlib
   - numpy
@@ -21,7 +21,6 @@ dependencies:
   - pydot
   - pytorch
   - seaborn
-  - tensorflow[version='<=2.12.1']
   - torchvision
   - tqdm
   - scikit-learn
@@ -32,4 +31,7 @@ dependencies:
   - ipython
   - nbconvert
   - d2l
-prefix: /Users/thomase/anaconda3/envs/python-ml-course
+prefix: python-ml-course
+
+
+

@@ -3,6 +3,8 @@
 .ipynb_checkpoints/
 .idea/
 tuner_dir
+tuner_cifar_dir
+cats_dogs
 img/viz
 img/viz.png
 model_plot.png
