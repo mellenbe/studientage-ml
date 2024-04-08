@@ -19,9 +19,7 @@ dependencies:
   - pandas
   - pillow[version='<=9.5.0']
   - pydot
-  - pytorch
   - seaborn
-  - torchvision
   - tqdm
   - scikit-learn
   - xgboost
@@ -31,6 +29,9 @@ dependencies:
   - ipython
   - nbconvert
   - d2l
+  - transformers
+  - sentencepiece
+  - datasets
 prefix: python-ml-course
 
 

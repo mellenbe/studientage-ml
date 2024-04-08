@@ -1,10 +1,11 @@
-05-Weiterfuehrend-und-experimentell/data
-05-Weiterfuehrend-und-experimentell/cifar_net.pth
+06-Weiterfuehrend-und-experimentell/data
+06-Weiterfuehrend-und-experimentell/cifar_net.pth
 .ipynb_checkpoints/
 .idea/
 tuner_dir
 tuner_cifar_dir
 cats_dogs
+gpt_clone_tokenizer
 img/viz
 img/viz.png
 model_plot.png
