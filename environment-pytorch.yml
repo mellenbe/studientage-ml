@@ -1,0 +1,16 @@
+name: studientage-pytorch
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+  - pytorch
+  - HCC
+  - pycharm
+dependencies:
+  - python=3.10
+  - jupyter
+  - pytorch
+  - transformers
+  - sentencepiece
+  - datasets
+prefix: C:\Users\thomase\miniconda3\envs\studientage-pytorch
