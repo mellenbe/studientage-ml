@@ -4,13 +4,15 @@ channels:
   - anaconda
   - defaults
   - pytorch
-  - HCC
-  - pycharm
 dependencies:
   - python=3.10
   - jupyter
   - pytorch
   - transformers
+  - accelerate
   - sentencepiece
   - datasets
-prefix: C:\Users\thomase\miniconda3\envs\studientage-pytorch
+  - evaluate
+  - sacremoses
+  - sacrebleu
+prefix: studientage-pytorch

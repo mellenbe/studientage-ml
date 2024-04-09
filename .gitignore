@@ -7,6 +7,9 @@ tuner_cifar_dir
 cats_dogs
 gpt_clone_tokenizer
 events.out.*
+input
+working
+translate
 img/viz
 img/viz.png
 model_plot.png

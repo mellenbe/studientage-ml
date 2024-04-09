@@ -1,0 +1,24 @@
+name: studientage-pytorch-cuda
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+  - nvidia
+  - pytorch
+dependencies:
+  - datasets
+  - jupyter
+  - python=3.10
+  - sentencepiece
+  - transformers
+  - evaluate
+  - pyarrow
+  - sacremoses
+  - sacrebleu
+  - accelerate
+  - scikit-learn
+  - tensorboard
+  - cuda
+  - pytorch
+  - pytorch-cuda
+prefix: studientage-pytorch-cuda
