@@ -18,7 +18,4 @@ dependencies:
   - accelerate
   - scikit-learn
   - tensorboard
-  - cuda
-  - pytorch
-  - pytorch-cuda
 prefix: studientage-pytorch-cuda
