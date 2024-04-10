@@ -6,16 +6,18 @@ channels:
   - nvidia
   - pytorch
 dependencies:
-  - datasets
-  - jupyter
-  - python=3.10
-  - sentencepiece
-  - transformers
-  - evaluate
-  - pyarrow
-  - sacremoses
-  - sacrebleu
   - accelerate
+  - datasets
+  - evaluate
+  - jupyter
+  - pyarrow
+  - python=3.10
+  - sacrebleu
+  - sacremoses
   - scikit-learn
+  - sentencepiece
   - tensorboard
+  - transformers
+  - pytorch
+  - pytorch-cuda=12.1
 prefix: studientage-pytorch-cuda
