@@ -3,7 +3,7 @@
 .ipynb_checkpoints/
 .idea/
 tuner_dir
-tuner_cifar_dir
+tuner_cifar_dir*
 cats_dogs
 gpt_clone_tokenizer
 events.out.*
