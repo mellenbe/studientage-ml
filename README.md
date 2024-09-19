@@ -1,4 +1,4 @@
-# Schnelleinstieg Machine Learning ♥️ mit Python!
+# Studientage Machine Learning ♥️ mit Python!
 
 ## Willkommen - Schön, dass Sie dabei sind!
 In diesem Repository finden Sie die Code-Beispiele und Übungen zum Kurs.
