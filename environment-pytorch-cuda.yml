@@ -7,7 +7,7 @@ channels:
   - pytorch
 dependencies:
   - accelerate
-  - datasets
+  - datasets=2.21.0
   - evaluate
   - jupyter
   - pyarrow
@@ -19,5 +19,5 @@ dependencies:
   - tensorboard
   - transformers
   - pytorch
-  - pytorch-cuda=12.1
+  - pytorch-cuda=12.4
 prefix: studientage-pytorch-cuda

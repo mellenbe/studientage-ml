@@ -9,6 +9,7 @@ events.out.*
 input
 working
 translate
+transferemodel_*
 img/viz
 img/viz.png
 model_plot.png

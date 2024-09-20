@@ -11,7 +11,7 @@ dependencies:
   - transformers
   - accelerate
   - sentencepiece
-  - datasets
+  - datasets=2.21.0
   - evaluate
   - sacremoses
   - sacrebleu
